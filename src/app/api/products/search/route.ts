@@ -1,5 +1,7 @@
 import db from '@/libs/db'
 
+export const dynamic = 'force-dynamic'
+
 export async function GET(req: Request) {
   try {
     const { searchParams } = new URL(req.url)
@@ -7,8 +9,8 @@ export async function GET(req: Request) {
     const skip = searchParams.get('skip')
     const take = searchParams.get('take')
 
-    const skipNumber = Number(skip)
-    const takeNumber = Number(take)
+    const skipNumber = skip === null ? undefined : Number(skip)
+    const takeNumber = take === null ? undefined : Number(take)
 
     if (!searchTerm) {
       return new Response('Parameter "q" has not been defined.')
