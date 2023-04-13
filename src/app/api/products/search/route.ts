@@ -22,7 +22,6 @@ export async function GET(req: Request) {
       where: {
         name: {
           contains: searchTerm,
-          mode: 'insensitive',
         },
       },
     })
