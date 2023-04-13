@@ -21,22 +21,3 @@ export async function GET(req: Request) {
     return new Response('Internal Server Error')
   }
 }
-
-export async function POST(req: Request) {
-  try {
-    const body = await req.json()
-
-    const productCreated = await db.products.create({
-      data: body,
-    })
-
-    if (!productCreated) {
-      return new Response('Product not was created.')
-    }
-
-    return new Response('Product created.')
-  } catch (error) {
-    console.log(error)
-    return new Response('internal server error')
-  }
-}
