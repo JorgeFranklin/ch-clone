@@ -13,6 +13,8 @@
 
 * project link: https://ch-clone.netlify.app
 
+* description: e-commerce done in 8 days, my first full-stack project was cool to develop but some things were missing like payments with stripe.
+
 * how the project looks like:
 
 ![image](https://user-images.githubusercontent.com/118635631/231845033-d2a9ac95-6d7e-46df-bcdb-2d5664d77ef1.png)
