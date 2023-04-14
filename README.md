@@ -2,7 +2,7 @@
 
 * <img src="https://user-images.githubusercontent.com/118635631/232114924-fc701c34-80ab-4b19-b96c-c7399b5530f4.png" width="15" height="15" /> TypeScript
 * <img src="https://user-images.githubusercontent.com/118635631/232117284-2142c3e1-37a1-4092-a82c-c6ef05247095.png" width="13" height="15" /> Prisma
-* <img src="https://user-images.githubusercontent.com/118635631/232119762-e87ff7ab-d6f6-41a0-aefd-eb9c92c2ac4f.jpeg" width="15" height="15" /> Next.js
+* <img src="https://user-images.githubusercontent.com/118635631/232119762-e87ff7ab-d6f6-41a0-aefd-eb9c92c2ac4f.jpeg" width="25" height="25" /> Next.js
 
 ## About the project
 
