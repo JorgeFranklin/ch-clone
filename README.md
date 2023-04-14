@@ -1,6 +1,6 @@
 ## Technologies used
 
-* <img src="https://user-images.githubusercontent.com/118635631/232114924-fc701c34-80ab-4b19-b96c-c7399b5530f4.png" width="10" height="10" /> TypeScript
+* <img src="https://user-images.githubusercontent.com/118635631/232114924-fc701c34-80ab-4b19-b96c-c7399b5530f4.png" width="20" height="20" /> TypeScript
 
 ## About the project
 
