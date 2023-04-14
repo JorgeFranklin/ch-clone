@@ -1,7 +1,7 @@
 ## Technologies used
 
 * <img src="https://user-images.githubusercontent.com/118635631/232114924-fc701c34-80ab-4b19-b96c-c7399b5530f4.png" width="15" height="15" /> TypeScript
-* <img src="https://user-images.githubusercontent.com/118635631/232115949-2e81f0fb-25d5-4f2f-aa29-042049378f6f.png" width="15" height="15" /> Prisma
+* <img src="https://user-images.githubusercontent.com/118635631/232115949-2e81f0fb-25d5-4f2f-aa29-042049378f6f.png" width="15" height="15" style="color: white" /> Prisma
 
 ## About the project
 
