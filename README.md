@@ -13,7 +13,7 @@
 
 * project link: https://ch-clone.netlify.app
 
-* description: e-commerce done in 8 days, my first full-stack project was cool to develop but some things were missing like payments with stripe.
+* description: e-commerce done in 8 days, my first full-stack project, was cool to develop but some things were missing like payments with stripe.
 
 * how the project looks like:
 
