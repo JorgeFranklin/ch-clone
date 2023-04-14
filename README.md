@@ -1,3 +1,7 @@
+## Technologies used
+
+* ![typescript](https://user-images.githubusercontent.com/118635631/232114924-fc701c34-80ab-4b19-b96c-c7399b5530f4.png) TypeScript
+
 ## About the project
 
 * project link: https://ch-clone.netlify.app
