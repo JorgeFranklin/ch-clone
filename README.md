@@ -4,6 +4,7 @@
 * <img src="https://user-images.githubusercontent.com/118635631/232117284-2142c3e1-37a1-4092-a82c-c6ef05247095.png" width="13" height="15" /> Prisma
 * <img src="https://user-images.githubusercontent.com/118635631/232119985-3e89997d-aa14-4546-ae43-1acb8ecca2c2.png" width="25" height="15" /> Next.js
 * <img src="https://user-images.githubusercontent.com/118635631/232121812-6062c62e-33da-4ef9-a49d-3a8f17d9e3cf.png" width="15" height="15" /> Tailwind
+* <img src="https://user-images.githubusercontent.com/118635631/232123049-49da0479-1363-4ced-a985-a2a7d8cc0b7e.png" width="15" height="15" /> Framer motion
 
 ## About the project
 
