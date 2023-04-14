@@ -6,7 +6,7 @@
 * <img src="https://user-images.githubusercontent.com/118635631/232124348-08633d57-917e-4ca1-9395-9d1ac4562405.png" width="15" height="15" /> - Next Auth
 * <img src="https://user-images.githubusercontent.com/118635631/232121812-6062c62e-33da-4ef9-a49d-3a8f17d9e3cf.png" width="15" height="15" /> - Tailwind
 * <img src="https://user-images.githubusercontent.com/118635631/232123049-49da0479-1363-4ced-a985-a2a7d8cc0b7e.png" width="15" height="15" /> - Framer Motion
-* <img src="https://user-images.githubusercontent.com/118635631/232123640-aeebb959-0fbd-4fea-8b9d-0615c2e67d69.png" width="15" height="15" /> - Zustand
+* <img src="https://user-images.githubusercontent.com/118635631/232123640-aeebb959-0fbd-4fea-8b9d-0615c2e67d69.png" width="20" height="15" /> - Zustand
 
 ## About the project
 
