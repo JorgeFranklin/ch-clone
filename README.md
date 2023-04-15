@@ -2,7 +2,7 @@
 
 * <img src="https://user-images.githubusercontent.com/118635631/232114924-fc701c34-80ab-4b19-b96c-c7399b5530f4.png" width="15" height="15" /> - TypeScript
 * <img src="https://user-images.githubusercontent.com/118635631/232117284-2142c3e1-37a1-4092-a82c-c6ef05247095.png" width="13" height="15" /> - Prisma
-* <img src="https://user-images.githubusercontent.com/118635631/232125113-d0aa1a21-07c2-49f9-9349-7f024e89c945.png" width="25" height="15" /> - Next.js 13
+* <img src="https://user-images.githubusercontent.com/118635631/232125113-d0aa1a21-07c2-49f9-9349-7f024e89c945.png" width="25" height="15" /> - Next 13
 * <img src="https://user-images.githubusercontent.com/118635631/232124348-08633d57-917e-4ca1-9395-9d1ac4562405.png" width="15" height="15" /> - Next Auth
 * <img src="https://user-images.githubusercontent.com/118635631/232121812-6062c62e-33da-4ef9-a49d-3a8f17d9e3cf.png" width="15" height="15" /> - Tailwind
 * <img src="https://user-images.githubusercontent.com/118635631/232123049-49da0479-1363-4ced-a985-a2a7d8cc0b7e.png" width="15" height="15" /> - Framer Motion
